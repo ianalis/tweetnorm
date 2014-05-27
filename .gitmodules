@@ -1,0 +1,3 @@
+[submodule "aspell-python"]
+	path = aspell-python
+	url = https://github.com/WojciechMula/aspell-python.git
